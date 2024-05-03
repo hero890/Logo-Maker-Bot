@@ -9,7 +9,7 @@ app = Client(
   bot_token=BOT_TOKEN
 )
 
-print("[INFO]: STARTING BOT...")
+print("[INFO]: STARTING BOT....[click Here](https://t.me/aapna_Movies)")
 app.start()
 
 print("[INFO]: STARTING AIOHTTP CLIENT")
