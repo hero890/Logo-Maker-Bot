@@ -23,8 +23,8 @@ HELP = """
 **To Make Square Logo - ** `/logosq Your Name`
 
 **♻️ Example:** 
-`/logo TechZBots`
-`/logosq TechZBots`
+`/logo TechHEro`
+`/logosq TechHEro`
 """
 
 # Commands
@@ -37,8 +37,8 @@ async def start(bot, message):
                 [
                     InlineKeyboardButton(text="Help", callback_data="help_menu"),
                     InlineKeyboardButton(
-                        text="Repo",
-                        url="https://github.com/TechShreyash/TechZ-Logo-Maker-Bot",
+                        text="New Update",
+                        url="https://t.me/aapna_Movies",
                     ),
                 ]
             ]
