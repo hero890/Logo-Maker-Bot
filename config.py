@@ -37,9 +37,9 @@ LOGO_API_URL2 = (
 
 if not API_KEY:
     print("Error: API_KEY Not Found!")
-    print("Please Get Your Own ApiKey From @TechZApiBot To Use Logo Api")
+    print("Please Get Your Own ApiKey From @aapna_Movies To Use Logo Api")
     sys.exit()
 elif API_KEY.strip() == "":
     print("Error: API_KEY Not Found!")
-    print("Please Get Your Own ApiKey From @TechZApiBot To Use Logo Api")
+    print("Please Get Your Own ApiKey From @aapna_Movies To Use Logo Api")
     sys.exit()
