@@ -7,7 +7,7 @@
 
 <p align="center" > <img alt="GitHub Forks" src="https://img.shields.io/github/forks/TechShreyash/TechZ-Logo-Maker-Bot?label=%F0%9F%8D%B4Forks&logoColor=blue&style=social"> <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/TechShreyash/TechZ-Logo-Maker-Bot?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=social"> </p>
 
-### 📘 Powered By <a href="https://techzapi.azurewebsites.net/">TechZBots API</a>
+### 📘 Powered By <a href="https://techzapi.azurewebsites.net/">Tech_HEro-Bots API</a>
 * **Docs :** https://techzapi.azurewebsites.net/docs
 * **Base Url :** `https://techzapi.azurewebsites.net/logo?api_key=YOUR_KEY&text=`
 * **Base Url For Square Logos :** `https://techzapi.azurewebsites.net/logo?api_key=YOUR_KEY&square=true&text=`
