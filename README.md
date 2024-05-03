@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Tellybots/Uploader-Bot"><img src="thumb.jpg"></a></p> 
+<p align="center"><a href="https://graph.org/file/d9a59b100819654bb5a65.jpg"><img src="thumb.jpg"></a></p> 
 
 <h1 align="center"><b>Logo-Maker-Bot</b></h1>
 <h4 align="center"><b>A Telegram Bot To Create Cool Logos, Powered By @bots_repo API.</b></h4>
